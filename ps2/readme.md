@@ -1,2 +1,2 @@
-**Tried**:6
-**Accepted**:5
+- **Tried**:6
+- **Accepted**:5
